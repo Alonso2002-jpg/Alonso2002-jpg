@@ -1,6 +1,9 @@
-<h2 align="center">Hola!👋 Soy Alonso 🤠</h2>
+<h2 align="center">Heyo!👋 I'm Alonso 🤠</h2>
 <h3 align="center">Bienvenidos a mi Repositorio 🫡</h3> <br>
-<div style="display:flex;margin:1em;justify-content:center;align-items:center">
+  <div>
+    <img style="width:100%;" src="img/banner.jpeg">
+  </div>
+<div style="display:flex;margin:1em;justify-content: space-between;align-items:center">
   <div style="text-align:left;width:50%;font-size:1.2em">
   - 🫣 My name is Alonso! Welcome to my Github Profile <br>
   - 🌱 I’m currently learning Backend-Development<br>
