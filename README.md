@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2 align="center">Hola!👋 Soy Alonso 🤠</h2>
+<h3 align="center">Bienvenidos a mi Repositorio 🫡</h3> <br>
+<div style="display:flex;margin:1em">
+  <div style="text-align:left;width:50%;font-size:1.2em">
+  - 🫣 My name is Alonso! Welcome to my Github Profile <br>
+  - 🌱 I’m currently learning Backend-Development<br>
+  - 💬 Ask me about Java, Javascript or Typescript 🧐<br>
+  - 🍅 I hate the bugs 🪲 but I love the solves 😋<br>
+  - ⚡ You only fail if you give up 💪<br><br>
+  </div>
+  <div>
+    <img style="width:50%;" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif">
+  </div>
+</div>
 
-<!--
-**Alonso2002-jpg/Alonso2002-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
