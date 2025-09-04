@@ -1,28 +1,60 @@
-<h2 align="center">Heyo!👋 I'm Alonso 🤠</h2>
-<h3 align="center">Welcome to my show 🫡</h3> <br>
-  <div>
-    <img style="width:100%;" src="img/banner.jpeg">
-  </div>
-  <br>
-<li style="display:flex;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> 
-<p style="margin-left:10px; font-size:1.2em"><b>About Me?</b></p>
-</li>
-<hr>
-<div style="display:flex;margin:1em;justify-content: space-between;align-items:center">
-  <div style="text-align:left;width:50%;font-size:1em">
-  - 🫣 My name is Alonso! Welcome to my Github Profile <br>
-  - 🌱 I’m currently learning Backend-Development<br>
-  - 💬 Ask me about Java, Javascript or Typescript 🧐<br>
-  - 🍅 I hate the bugs 🪲 but I love the solves 😋<br>
-  - ⚡ You only fail if you give up 💪<br><br>
-  </div>
-  <div>
-    <img style="width:50%;display:inline" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif">
-  </div>
-</div>
+# 👋 Hola, soy Jorge Alonso Cruz Vera (aka [Alonso2002-jpg](https://github.com/Alonso2002-jpg))
 
+💻 **Desarrollador Web de 23 años** apasionado por crear soluciones digitales modernas y escalables.  
+Actualmente trabajo en el sector IT, construyendo aplicaciones web con un enfoque en **calidad, escalabilidad y buenas prácticas**.  
 
-<div>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+---
 
-</div>
+## 🚀 Sobre mí
+- 🎓 Grado Superior en **Desarrollo de Aplicaciones Web (DAW)** (2022 – 2024).  
+- 🏢 Experiencia en empresa de software desarrollando aplicaciones web (1 año).  
+- 🛠️ **Stack principal**:  
+  - Frontend → **React con Next.js**, **Angular**, **Astro**  
+  - Backend → **PHP con Laravel**, **C# con .NET**  
+  - Lenguajes → **TypeScript**, **PHP**, **C#**  
+  - Infraestructura → **Docker**, CI/CD, despliegues en servidores cloud  
+- 🌐 Mi portfolio: [jorgealonsocruz.com](https://jorgealonsocruz.com/)  
+
+---
+
+## 🧰 Tecnologías y herramientas
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Alonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alonso2002-jpg&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alonso2002-jpg&layout=compact&theme=radical)
+
+---
+
+## 🤝 Lo que busco
+- 🌍 Colaboraciones en proyectos **Open Source**  
+- 🔗 Networking con otros desarrolladores  
+- 💡 Apoyar proyectos interesantes de la comunidad  
+
+---
+
+## 🎮 Hobbies
+- 🎮 Jugar videojuegos  
+- 📚 Aprender sobre nuevas tecnologías y programación  
+
+---
+
+## 📫 Contacto
+- ✉️ **Email:** [jorgealonso0876@gmail.com](mailto:jorgealonso0876@gmail.com)  
+- 🌐 **Portfolio:** [jorgealonsocruz.com](https://jorgealonsocruz.com/)  
+
+---
+
+## ✨ Frase que me inspira
+> “Programming isn’t about what you know; it’s about what you can figure out.”  
+> — *Chris Pine*
